@@ -6,7 +6,7 @@ import { sendStudyReminder, litresToGallons, calculateAverage, formatCountdown }
 console.log("=== Node.js ES Module Demo with .js files ===\n");
 
 // Function 1 usage
-sendStudyReminder("Pankaj", "Computer Science", "6:30 PM");
+sendStudyReminder("VANSHDEEP", "Computer Science", "6:30 PM");
 
 // Function 2 usage
 const gallons = litresToGallons(10);
